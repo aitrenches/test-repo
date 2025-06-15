@@ -52,6 +52,4 @@ markdown_extensions:
 
 nav:
   - Automated Page: auto_page.md
-  - Documentation:
-    - Automated Page: docs/auto_page.md
   - Home: index.md
