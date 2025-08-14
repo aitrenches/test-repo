@@ -1,7 +1,7 @@
 site_name: Test Repo
-site_url: https://adrianthebeloved.github.io/test-repo
-repo_url: https://github.com/Adrianthebeloved/test-repo
-repo_name: Adrianthebeloved/test-repo
+site_url: https://aitrenches.github.io/test-repo
+repo_url: https://github.com/aitrenches/test-repo
+repo_name: aitrenches/test-repo
 
 theme:
   name: material
