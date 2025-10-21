@@ -51,5 +51,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
+  - Documentation Work Group Agenda: documentation-work-group-agenda.md
   - Automated Page: auto_page.md
   - Home: index.md
