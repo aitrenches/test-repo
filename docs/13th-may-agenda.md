@@ -18,7 +18,7 @@
    - Who will update Circle content on MkDocs (us vs. individual Circles).  
    - Minimum info requirements per Circle (pending spreadsheet draft from Vani).  
 
-3. 
+3.  
 
 4. **Task Management Platform Initiative (5 minutes)**  
    Sophia’s Announcement: Sophia would like to announce the task management initiative for all Circles using OpenProject.  
