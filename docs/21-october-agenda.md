@@ -3,7 +3,7 @@
 
 **Date:** Tuesday, October 21st, 2025  
 **Time:** 1PM UTC  
-**Host:** Anthony
+**Host:** Anthony  
 
 ## 1. Welcome and Recap (5 mins)
 Brief recap of the October 7th meeting outcomes.  
@@ -28,32 +28,32 @@ The Documentation Circle can support by:
 - Establish touchpoints with Kwasi for review and feedback loops.  
 - Plan for alignment with SSOT and Documentation Standards.  
 
-**ACTION:** Assign representative(s) to liaise with Kwasi; await syllabus for review.
+**ACTION:** Assign representative(s) to liaise with Kwasi; await syllabus for review.  
 
 ## 3. Educational Content Repository (Marketing & Events Collaboration) (15 mins)
 - Review outcomes from the call with Jan and Rafael DN.  
 - Discuss how the DEEP Academy initiative overlaps or connects with the educational repository project.  
 - Consider a unified structure or index for both initiatives.  
 
-**ACTION:** Draft outline or integration plan between both initiatives.
+**ACTION:** Draft outline or integration plan between both initiatives.  
 
 ## 4. MkDocs Automation Requirements – Progress Review (10 mins)
 - Status update on requirements doc and testing progress.  
 - Discuss possible pilot with liaison documents.  
 - Integration potential with DEEP Academy or educational repository content.  
 
-**Presentation by Anthony on Friday 10 AM, 24, 2025**
+**Presentation by Anthony on Friday 10 AM, 24, 2025**  
 
 ## 5. Circle Liaison Docs – Review & Coordination (10 mins)
 - Check completion and updates on Circle-specific Google Docs.  
 - Address support needs for Circles still setting up.  
 - Discuss feedback or early results from liaison activities.  
 
-Do we know enough to about the kind of material, to know about how often the documentation will need to be updated so we can decide on some sort of schedule.  
+Do we know enough about the kind of material, to know about how often the documentation will need to be updated so we can decide on some sort of schedule?  
 
 We don't need to keep track on what they update or schedule of their maintenance/update.  
 
-Encourage last updated date note on documentation. (Should be stated at the bottom left) (check if google docs has that feature)
+Encourage last updated date note on documentation. (Should be stated at the bottom left) (check if google docs has that feature)  
 
 ## 6. Proofreading Initiative – Update (5 mins)
 - Progress update from Vani and proofreading team.  
