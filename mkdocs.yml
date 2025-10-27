@@ -51,5 +51,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
+  - 18th March Agenda: 18th-march-agenda.md
   - Automated Page: auto_page.md
   - Home: index.md
