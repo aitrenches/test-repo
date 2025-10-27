@@ -24,7 +24,7 @@
    - Events Circle  
    - Marketing Circle  
    - Onboarding Circle  
-   - Knowledge management Circle  
+   - Knowledge Management Circle  
    - Dev Outreach Circle  
    - Operations Circle  
    - IT Circle  
