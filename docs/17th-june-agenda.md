@@ -1,6 +1,6 @@
-# Agenda – DF Documentation Circle Meeting
+# Agenda – DF Documentation Circle Meeting  
 **Date:** Tuesday, June 17, 2025  
-**Time:** 1:00 PM UTC
+**Time:** 1:00 PM UTC  
 
 1. **Welcome and Quick Recap (5 mins)**  
    Brief welcome and highlights from the last meeting  
