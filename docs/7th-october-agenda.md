@@ -8,7 +8,7 @@
 Quick review of September 16th meeting outcomes.  
 Follow up on pending actions:  
 - Budget projection decisions.  
-- Progress on liaison Google Docs. How do we track their updates and everything new they have to add to their landing. The circles / resource will be enabled with training materials so they can update their resources themselves.  
+- Progress on liaison Google Docs. How do we track their updates and everything new they have to add to their landing? The circles/resource will be enabled with training materials so they can update their resources themselves.  
 - MkDocs automation requirements draft.  
 
 ## 2. Marketing & Events Collaboration: Educational Content Initiative (20 mins)  
@@ -18,8 +18,8 @@ Jan and Rafael have proposed an educational and informational series (“All Thi
 The concept includes a content rhythm (e.g., weekly videos, blogs, and AMAs) that will be stored in a searchable, growing knowledge repository—potentially becoming a “Wikipedia for Deep Funding.”  
 
 1. Who is the audience?  
-2. Who is the audience of the searchable growing knowledge repository, PROPOSERS, REVIEWERS.  
-3. Will there be an update schedule? Will it be updateable content or it’s a fixed set of content? This will affect how they are stored. **YES, INTERNAL DECISION ON SCHEDULE**  
+2. Who is the audience of the searchable growing knowledge repository, PROPOSERS, REVIEWERS?  
+3. Will there be an update schedule? Will it be updateable content or is it a fixed set of content? This will affect how they are stored. **YES, INTERNAL DECISION ON SCHEDULE**  
 4. Or - is it a Wiki? So, collaborative, ongoing updates? (very different approach from a top-down SSOT - it’s a sort of collaborative SSOT) **YES**  
 5. What formats will material be in?  
 6. What is the time frame? Is it a 3 months initiative? **CONTINUOUS**  
@@ -52,10 +52,10 @@ Documentation Circle is invited to support content organization, indexing, and s
   - Love - IT & Data Analytics - ongoing  
   - Princess - Events & Marketing - ongoing  
   - Anthony - Dev Outreach & Biz Dev - ongoing  
-All to add docs to folder on shared drive [Google Drive](https://drive.google.com/drive/folders/15t2lHypIPEBZmJ6pM3yA1NPvvzO4C-zR?usp=drive_link)  
+- All to add docs to folder on shared drive [Google Drive](https://drive.google.com/drive/folders/15t2lHypIPEBZmJ6pM3yA1NPvvzO4C-zR?usp=drive_link)  
 
-**LAST UPDATED** dates are needed.  
-Should it be our role to identify what elements are likely to need updating, and agree a schedule with the Circle?  
+LAST UPDATED dates are needed.  
+Should it be our role to identify what elements are likely to need updating, and agree on a schedule with the Circle?  
 
 ## 5. Budget Projection & Resource Planning (10 mins)  
 - Revisit 6-month budget projection (Sophia).  
