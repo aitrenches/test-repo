@@ -12,11 +12,11 @@
    - **Overview:**
      - Outline the high-level goals, inspired by the comments and suggestions so far.
      - Summarize the five main goals for the project:
-       - **Access to DF Circle Information:** Making information available about each DF Circle.
-       - **Onboarding for New Members:** Developing resources that make onboarding easier.
-       - **Roles and Duties:** Providing clarity on Circle member roles, workflows, and responsibilities.
-       - **Knowledge Retention:** Ensuring documentation can serve as a persistent resource.
-       - **Accountability and Improvement:** Enhancing processes and clarifying roles to encourage accountability.
+       - Access to DF Circle Information: Making information available about each DF Circle.
+       - Onboarding for New Members: Developing resources that make onboarding easier.
+       - Roles and Duties: Providing clarity on Circle member roles, workflows, and responsibilities.
+       - Knowledge Retention: Ensuring documentation can serve as a persistent resource.
+       - Accountability and Improvement: Enhancing processes and clarifying roles to encourage accountability.
    - **Existing Documentation Overview:**
      - Discuss the high-level Deep Funding overview page (on Confluence) that may need conversion and updating. Address any outdated areas.
 
