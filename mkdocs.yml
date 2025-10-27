@@ -51,5 +51,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
+  - 28th Jan Agenda: 28th-jan-agenda.md
   - Automated Page: auto_page.md
   - Home: index.md
