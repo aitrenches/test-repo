@@ -30,10 +30,12 @@ We think the expanded responsibilities would involve:
 - Ensuring documentation remains accurate and up-to-date with system changes.
 
 ### Supporting Backend Documentation Creation
-- **Option A:** Closely collaborating with developers, operators, and users to determine their unique documentation use cases (e.g., User perspectives & Privacy concerns) then create initial structure/architecture for the documentation resource. Establish a pathway for continuous integration and continuous deployment.
-- **Option B:** Option A + research, publishing, maintenance, and management of the documentation resource.
+- **Option A:** Closely collaborating with developers, operators and users to determine their unique documentation use cases (e.g User perspectives & Privacy concerns) then create initial structure/architecture for the documentation resource. Establish a pathway for continuous integration and continuous deployment.
+  
+- **Option B:** Option A + research, publishing, maintenance and management of the documentation resource.
 
 ## Documentation Strategy we plan to use
+
 ### Initial Scoping and Planning
 - Meet with the current operators and developers to gather requirements and unique use cases.
 - Identify key areas of each system that require documentation (e.g., setup, workflows, APIs, troubleshooting guides).
@@ -54,6 +56,7 @@ We think the expanded responsibilities would involve:
 - User testing with non-technical users.
 
 ## Potential Challenges and Proposed Solutions
+
 ### Expertise and Time Constraints
 - **Challenge:** Limited technical expertise within the work group may hinder understanding of backend systems.
 - **Solution:**
@@ -70,6 +73,7 @@ We think the expanded responsibilities would involve:
 While this added responsibility aligns with the group’s goals, concerns remain about the feasibility of taking on backend documentation tasks without additional resources. If the challenges we outlined above are addressed, then the Work Group will have the capacity to handle the task.
 
 ## Proposed Next Steps
+
 ### Gather Initial Feedback
 - Share this scoping document with Rafael Presa and the current stakeholders/handlers of the backend systems for their input.
 - Confirm their willingness to collaborate and contribute to the documentation process.
