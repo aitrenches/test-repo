@@ -1,4 +1,5 @@
 # Agenda for DF Circles Documentation Meeting
+
 **Date:** Tuesday, 14th January 2025  
 **Time:** 2:00 PM UTC  
 **Objective:** Recap progress from the previous meetings, discuss Rafael’s comment on expanding responsibilities, and make decisions on key documentation tasks.
@@ -7,10 +8,10 @@
    **Facilitator:** Anthony  
    Quick summary of the previous meeting's agenda and key decisions made.  
    Review progress on action items:  
-   - Victor: Status of time tracking spreadsheet updates.  
-   - Sophia and Review Circle Members: Update on gathering materials/processes in the example spreadsheet.  
-   - Miss Hadi and Tobias: Outreach to other Circles for input on documentation.  
-   - Anthony: Updates on the GitHub repository and MkDocs Material instance.
+   - **Victor:** Status of time tracking spreadsheet updates.  
+   - **Sophia and Review Circle Members:** Update on gathering materials/processes in the example spreadsheet.  
+   - **Miss Hadi and Tobias:** Outreach to other Circles for input on documentation.  
+   - **Anthony:** Updates on the GitHub repository and MkDocs Material instance.
 
 2. **Main Agenda: Expanding Documentation Responsibilities (30 minutes)**  
    **Rafael’s Comment:**  
