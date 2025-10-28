@@ -1,7 +1,6 @@
 # Agenda for DF Circles Documentation Work Group Meeting
-
 **Date:** Tuesday, 11th February  
-**Time:** 1PM UTC
+**Time:** 1PM UTC  
 
 ## Welcome and Recap (5 minutes)
 - Welcome everyone.
