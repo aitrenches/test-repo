@@ -23,22 +23,22 @@
    - Clarify role of liaison: communication bridge + ensuring docs are kept updated  
 
 3. **MkDocs Automation Requirements – Next Steps (10 mins)**  
-   - Review progress on Requirements Doc  
-   - Confirm timeline for finalizing by September  
-   - Status of walkthrough guide  
+   Review progress on Requirements Doc  
+   Confirm timeline for finalizing by September  
+   Status of walkthrough guide  
 
 4. **Single Source of Truth & Maintenance Cycles (10 mins)**  
-   - Alignment with Rafael’s SSOT principles  
-   - Drafting “maintenance calendar” – how updates will be logged and tracked  
-   - **ACTION:** Decide how to present at DF All Hands (during monthly report)  
+   Alignment with Rafael’s SSOT principles  
+   Drafting “maintenance calendar” – how updates will be logged and tracked  
+   **ACTION:** Decide how to present at DF All Hands (during monthly report)  
 
 5. **Proofreading Initiative – Status & Next Actions (5 mins)**  
-   - Current workload and distribution update  
-   - Workflow clarity (pending stakeholder conversations with Rafael, Edwin)  
-   - **ACTION:** Vani to update on channel creation & meeting scheduling  
+   Current workload and distribution update  
+   Workflow clarity (pending stakeholder conversations with Rafael, Edwin)  
+   **ACTION:** Vani to update on channel creation & meeting scheduling  
 
 6. **Open Floor / AOB (5 mins)**  
-   - **ACTION:** Decide how to present at DF Circle meetings as Anthony usually has connectivity issues.  
-   - Any final updates or questions  
-   - How to make sure we achieve our goals for sending out the liaisons? We will use the Initiative tracker.  
-   - Confirm next meeting date (Sept 16, 2025)
+   **ACTION:** Decide how to present at DF Circle meetings as Anthony usually has connectivity issues.  
+   Any final updates or questions  
+   How to make sure we achieve our goals for sending out the liaisons? We will use the Initiative tracker.  
+   Confirm next meeting date (Sept 16, 2025)

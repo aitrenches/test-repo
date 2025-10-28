@@ -29,13 +29,13 @@
      - but we haven't even explained what a "Circle participant" is, or what "DeepFunding" even is…
      - Homepage needs to be a LOT cleaner and just have some basic introductory info in it.
 
-**25th March 2024 Update:**
-- Circles should appoint one member to update their MkDocs website resource.
+   **25th March 2024 Update:**
+   - Circles should appoint one member to update their MkDocs website resource.
 
-**Action Items:**
-- Reach out to Raphael to go through the new DF-Book (Sophia & Anthony).
-- Vani - Continue with the Architecture of the site.
-- Minimum information a circle should have (Vani & Love).
+   **Action Items:**
+   - Reach out to Raphael to go through the new DF-Book (Sophia & Anthony).
+   - Vani - Continue with the Architecture of the site.
+   - Minimum information a circle should have (Vani & Love).
 
 3. **Proofreading & Landing Page Update (10 minutes)**
    - Updates from Sucre and Vani on proofreading progress.

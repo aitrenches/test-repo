@@ -74,4 +74,7 @@ nav:
   - 2nd September Agenda: 2nd-september-agenda.md
   - 16th September Agenda: 16th-september-agenda.md
   - 7th October Agenda: 7th-october-agenda.md
-  - 21 October Agenda: 21-october-agenda.md
+  - 21 October Agenda:
+    - Overview: 21-october-agenda.md
+    - Child Tab 1: child-tab-1.md
+    - Child Tab  2: child-tab-2.md

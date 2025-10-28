@@ -26,7 +26,7 @@ This is a simple framework to guide both the DeepFunding Circles documentation a
   - Step-by-step processes
   - Tools and resources
   - Troubleshooting/FAQs
-- Example sections for Backend Systems: "System Overview," "API Details," "User Guide."
+  - Example sections for Backend Systems: "System Overview," "API Details," "User Guide."
 
 ### Tailored Approaches:
 - Adjust the framework for each Circle or system, based on complexity and size.
