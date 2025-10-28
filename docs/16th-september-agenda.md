@@ -1,5 +1,5 @@
 # TRACKER: 
-📅 Documentation Circle – Bi-Weekly Meeting Agenda  
+📅 **Documentation Circle – Bi-Weekly Meeting Agenda**  
 **Date:** Tuesday, September 16th, 2025  
 **Time:** 1PM UTC  
 **Host:** Anthony  
@@ -14,18 +14,22 @@
    Walkthrough of their documentation index proposal  
    Discussion on alignment with Documentation Circle workflows (liaison docs, MkDocs, SSOT)  
    **ACTION:** Gather Circle feedback → agree on next integration steps  
-   More initiatives in the Events Circle, the documentation resources became spread out and unstandardized. Goal is to improve documentation for the next 6 months; they have come up with some initiatives on this:  
+   More initiatives in the Events Circle, the documentation resources became spread out and unstandardized. Goal is to improve documentation for the next 6 months, they have come up with some initiatives on this:  
+
    - Process Trackers  
    - Strategy Docs  
-   - etc. Docs are hard to find and track, losing processes; they have come up with a management process, just started last week:  
-     It helps keep everything in one place. Specialized Drive folder, and an Index to help find documents easily.  
-   Created a spreadsheet containing parameters to help search for docs. The spreadsheet will also contain labeled processes, etc. Share clear responsibilities, help search, help update, and anybody can find and use a document.  
+   - etc. Docs are hard to find and track, losing processes, they have come up with a management process, just started last week:  
+
+   It helps keep everything in one place. Specialized Drive folder, and an Index to help find documents easily.  
+
+   Created a spreadsheet containing parameters to help search for docs. The spreadsheet will also contain labeled processes etc. Share clear responsibilities, help search, help update and anybody can find and use a document.  
    Also created a “Standard Process Document Template” so all docs are standardized.  
    Also created an Appendix for issues in existing documentation.  
 
    **A Management Process Documentation**  
    **Next Steps:** create drive folder, create master index spreadsheet and do pending docs, management, peer testing, create missing docs, assign process areas.  
-   Documentation Circle will wait for an update on the Drive creation and how it can be of benefit to as many Circles as possible.  
+
+   Documentation Circle will wait for update on the Drive creation and how it can be of benefit to as many Circles as possible.  
 
 3. **Budget Projection for Next 6 Months (15 mins)**  
    Sophia to share budget projection file  
@@ -44,6 +48,6 @@
    - Pending workflows for approvals  
 
 5. **Open Floor / AOB (5 mins)**  
-   - Connectivity workaround for Anthony when presenting in Circle meetings  
-   - Tracking progress of liaison docs via Initiatives Tracker  
-   - Confirm next meeting date (Sept 30, 2025)
+   Connectivity workaround for Anthony when presenting in Circle meetings  
+   Tracking progress of liaison docs via Initiatives Tracker  
+   Confirm next meeting date (Sept 30, 2025)
