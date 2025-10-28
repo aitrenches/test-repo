@@ -36,8 +36,8 @@
    - Thank attendees and adjourn the meeting.  
 
 6. **Tasks for this week**  
-   - **Anthony:** Create MkDocs Instances for each Circle/Process  
-   - **Sophia:** Gather Supporting Information and other general operational knowledge of the Circles/Processes.  
-   - **Tobias:** Responsible for refining the framework of managing the documentation content.  
-   - **Hadi:** Reach out to existing Work Group members to confirm their participation.  
-   - **Tobias:** Today’s meeting notes.
+   - Anthony - Create MkDocs Instances for each Circle/Process  
+   - Sophia - Gather Supporting Information and other general operational knowledge of the Circles/Processes.  
+   - Tobias - Responsible for refining the framework of managing the documentation content.  
+   - Hadi - Reach out to existing Work Group members to confirm their participation.  
+   - Tobias - Today’s meeting notes.
