@@ -18,8 +18,8 @@
    - What kind of content review/approval flow is needed pre-upload? Mattermost reminders? Review cycle - how often? Monthly? Can we see that an update has been made?  
    - Coordination with other Circles: Who maintains what? Each circle maintains their own with support from one of us  
    - What level of technical literacy - AND km literacy - do we assume for contributors? ELI 5  
-   **ACTION:** Draft Requirements Doc  
-   **ACTION:** Anthony to create walkthrough text guide with images of Google Doc → MkDocs automation process By Mon  
+   - **ACTION:** Draft Requirements Doc  
+   - **ACTION:** Anthony to create walkthrough text guide with images of Google Doc → MkDocs automation process By Mon  
    - Review Circle  
    - Events Circle  
    - Marketing Circle  
