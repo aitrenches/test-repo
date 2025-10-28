@@ -51,33 +51,3 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 nav:
-  - 5th Nov Agenda: 5th-nov-agenda.md
-  - 21st Nov Agenda: 21st-nov-agenda.md
-  - 14th Jan Agenda: 14th-jan-agenda.md
-  - Preliminary Scoping  of  added responsibilities: preliminary-scoping-of-added-responsibilities.md
-  - 21st Jan Agenda: 21st-jan-agenda.md
-  - Documentation Framework: documentation-framework.md
-  - 28th Jan Agenda: 28th-jan-agenda.md
-  - 11th Feb Agenda: 11th-feb-agenda.md
-  - 25th Feb Agenda: 25th-feb-agenda.md
-  - 4th March Agenda: 4th-march-agenda.md
-  - 11th March Agenda: 11th-march-agenda.md
-  - 18th March Agenda: 18th-march-agenda.md
-  - 29th April Agenda: 29th-april-agenda.md
-  - 13th May Agenda: 13th-may-agenda.md
-  - 3rd June Agenda: 3rd-june-agenda.md
-  - 17th June Agenda: 17th-june-agenda.md
-  - 1st July Agenda: 1st-july-agenda.md
-  - 8th July Agenda: 8th-july-agenda.md
-  - 5th August Agenda: 5th-august-agenda.md
-  - 19th August Agenda: 19th-august-agenda.md
-  - 2nd September Agenda: 2nd-september-agenda.md
-  - 16th September Agenda: 16th-september-agenda.md
-  - 7th October Agenda: 7th-october-agenda.md
-  - 21 October Agenda:
-    - Overview: 21-october-agenda.md
-    - Child Tab 1: child-tab-1.md
-    - Child Tab  2: child-tab-2.md
-    - Overview: 21-october-agenda.md
-    - Child Tab 1: child-tab-1.md
-    - Child Tab  2: child-tab-2.md
