@@ -33,7 +33,7 @@
    - Main Website: Similar questions as above.  
    - Proposal Submission Tool: Identify owners and preferred documentation formats.  
    - Operations System Backend: What exists already? Identify any gaps.  
-   Task: Sucre will check with Mayor on existing documentation details and formats
+   Task: Sucre will check with Mayor on existing documentation details and formats.
 
 6. **Documentation Rota for Meeting Notes (5 minutes) (To be Discussed)**  
    Confirm Tobias's plan for a documentation rota for meeting notes (Today’s meeting also)  
