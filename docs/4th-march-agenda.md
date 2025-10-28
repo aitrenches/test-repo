@@ -16,7 +16,6 @@ Miss Hadi will document this meeting.
 Anthony to bring up stuff at next All-Hands - document headers, and being clear about who has access.
 
 We need to start doing process documentation for:
-
 - How to update the Community Portal 
   - Who has this? 
   - Where should it go? 
