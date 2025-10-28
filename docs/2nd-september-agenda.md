@@ -40,5 +40,5 @@
 6. **Open Floor / AOB (5 mins)**  
    - **ACTION:** Decide how to present at DF Circle meetings as Anthony usually has connectivity issues.  
    - Any final updates or questions  
-   - How to make sure we achieve our goals for sending out the liaisons? We will use the Initiative tracker.  
+   - How to make sure we achieve our goals for sending out the liaisons? we will use the Initiative tracker.  
    - Confirm next meeting date (Sept 16, 2025)
