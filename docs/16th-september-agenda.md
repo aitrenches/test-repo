@@ -1,5 +1,5 @@
 # TRACKER: 
-📅 **Documentation Circle – Bi-Weekly Meeting Agenda**  
+📅 Documentation Circle – Bi-Weekly Meeting Agenda  
 **Date:** Tuesday, September 16th, 2025  
 **Time:** 1PM UTC  
 **Host:** Anthony  
@@ -18,16 +18,17 @@
 
    - Process Trackers  
    - Strategy Docs  
-   - etc. Docs are hard to find and track, losing processes, they have come up with a management process, just started last week:  
 
-   It helps keep everything in one place. Specialized Drive folder, and an Index to help find documents easily.  
+   Docs are hard to find and track, losing processes, they have come up with a management process, just started last week:  
+
+   It helps keep everything in 1 place. Specialized Drive folder, and an Index to help find documents easily,  
 
    Created a spreadsheet containing parameters to help search for docs. The spreadsheet will also contain labeled processes etc. Share clear responsibilities, help search, help update and anybody can find and use a document.  
    Also created a “Standard Process Document Template” so all docs are standardized.  
    Also created an Appendix for issues in existing documentation.  
 
    **A Management Process Documentation**  
-   **Next Steps:** create drive folder, create master index spreadsheet and do pending docs, management, peer testing, create missing docs, assign process areas.  
+   Next Steps: create drive folder, create master index spreadsheet and do pending docs, management, peer testing, create missing docs, assign process areas.  
 
    Documentation Circle will wait for update on the Drive creation and how it can be of benefit to as many Circles as possible.  
 
