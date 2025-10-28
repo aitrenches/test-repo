@@ -15,18 +15,18 @@
 - Discuss updates and any concerns regarding data privacy in Google Docs.
 - Concerning Document ownership, the WG needs an email to record and store documents in the Drive, then give out ownership to members.
 - Identify any action items to enhance privacy and data ownership measures.
-- **Content Drive Ownership** - (To be announced in an All Hands meeting) We should advise all circles when they create a document of any kind to add a header which says “who created it and what date, for which circle and which google account owns it”.
+- Content Drive Ownership - (To be announced in an All Hands meeting) We should advise all circles when they create a document of any kind to add a header which says “who created it and what date, for which circle and which google account owns it”.
 
 ## MkDocs Instances Update (15 minutes)
 - Update from Anthony:
   - Status of the MkDocs instances.
   - Progress on data transfer for the Review Circle.
-  - Q&A on technical aspects and troubleshooting.
+- Q&A on technical aspects and troubleshooting.
 
 ## Mapping Data to MkDocs (15 minutes) (Adjourned to next meeting)
-- **Data Transfer Improvements:**
+- Data Transfer Improvements:
   - Discuss methods to improve data transfer from Google Docs to MkDocs.
-- **Content Mapping:**
+- Content Mapping:
   - Identify which sections of the MkDocs instances should receive specific types of data.
   - Brainstorm any adjustments needed for better organization.
 
@@ -34,6 +34,6 @@
 - Address any final questions or suggestions.
 - Confirm next actions and assign follow-up tasks.
 - Confirm next meeting details.
-- We need someone to represent us at “Town Halls” and general DF meetings.  
-  1. Anthony - DF Book MK Docs equivalent  
+- We need someone to represent us at “Town Halls” and general DF meetings.
+  1. Anthony - DF Book MK Docs equivalent
   2. Meeting notes will be handled by Vani - with the recording.
