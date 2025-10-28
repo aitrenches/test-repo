@@ -1,1 +1,0 @@
-# Welcome to the Test of the Automation
