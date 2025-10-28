@@ -24,10 +24,11 @@
    - Conclude on the Review Circles MkDocs (Anthony).
    - Vani will draft some kind of info hierarchy this week (if not done by next meeting, will hand it over).
    - Prepare the All Hands Meeting (next week Wednesday) report using the template. (Anthony)
-   - Comments:
-     - The first phrase on the homepage says "This documentation serves as your guide to understanding and participating in the DeepFunding ecosystem, whether you're an awarded team member, circle participant, or interested in learning more about our initiatives."
-     - but we haven't even explained what a "Circle participant" is, or what "DeepFunding" even is…
-     - Homepage needs to be a LOT cleaner and just have some basic introductory info in it.
+
+   **Comments:**
+   - The first phrase on the homepage says "This documentation serves as your guide to understanding and participating in the DeepFunding ecosystem, whether you're an awarded team member, circle participant, or interested in learning more about our initiatives."
+   - but we haven't even explained what a "Circle participant" is, or what "DeepFunding" even is…
+   - Homepage needs to be a LOT cleaner and just have some basic introductory info in it.
 
    **25th March 2024 Update:**
    - Circles should appoint one member to update their MkDocs website resource.
