@@ -2,7 +2,7 @@
 
 **Date:** Tuesday, 18th March 2025  
 **Time:** 1:00 PM UTC  
-**Present:** Anthony, Vani, Miss Hadi, Sucre n Spice, Tobias
+**Present:** Anthony, Vani, Miss Hadi, Sucre n Spice, Tobias  
 
 1. **Welcome and Recap (5 minutes)**
    - Brief welcome and summary of key points from the 11th March meeting.
