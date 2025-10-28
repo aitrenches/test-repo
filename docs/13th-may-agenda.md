@@ -10,9 +10,9 @@
 
 2. **DF Book MkDocs & Documentation Updates (10 minutes)**  
    Progress updates on MkDocs editing and restructuring.  
-   New DF-Books needs proof reading  
+   New DF-Books needs proof reading.  
    TOBIAS: Include the OpenProject for task logging on Review Circle’s MkDocs website.  
-   Include other wallet options asides Eternl  
+   Include other wallet options asides Eternl.  
    Review any feedback or contributions received since the last meeting.  
    Continue planning for:  
    - Who will update Circle content on MkDocs (us vs. individual Circles).  
@@ -28,7 +28,7 @@
    Await feedback from Tobias on his assigned task.  
    Check status of pending action items:  
    - Contact with Ayo regarding Circle’s presence on the main website. - Anthony  
-   - Ask Rafael about status of the Documentation Circle  
+   - Ask Rafael about status of the Documentation Circle.  
    - Spreadsheet for Circle info updates (Vani).  
    - Circle email setup (Vani). (Waiting for Edwin)  
 
