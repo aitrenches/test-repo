@@ -30,9 +30,9 @@ We think the expanded responsibilities would involve:
 - Ensuring documentation remains accurate and up-to-date with system changes.
 
 ### Supporting Backend Documentation Creation
-- **Option A:** Closely collaborating with developers, operators, and users to determine their unique documentation use cases (e.g., User perspectives & Privacy concerns) then create initial structure/architecture for the documentation resource. Establish a pathway for continuous integration and continuous deployment.
+- **Option A:** Closely collaborating with developers, operators and users to determine their unique documentation use cases (e.g User perspectives & Privacy concerns) then create initial structure/architecture for the documentation resource. Establish a pathway for continuous integration and continuous deployment.
   
-- **Option B:** Option A + research, publishing, maintenance, and management of the documentation resource.
+- **Option B:** Option A + research, publishing, maintenance and management of the documentation resource.
 
 ## Documentation Strategy we plan to use
 ### Initial Scoping and Planning
@@ -68,7 +68,7 @@ We think the expanded responsibilities would involve:
   - Develop guidelines and best practices for creating and maintaining documentation.
 
 ## Feasibility Considerations
-While this added responsibility aligns with the group’s goals, concerns remain about the feasibility of taking on backend documentation tasks without additional resources. If the challenges we outlined above are addressed, then the Work Group will have the capacity to handle the task.
+While this added responsibility aligns with the group’s goals, concerns remain about the feasibility of taking on backend documentation tasks without additional resources. If the challenges we outlined above are addressed, then the Work Group will have the capacity to get it to handle the task.
 
 ## Proposed Next Steps
 ### Gather Initial Feedback
