@@ -52,7 +52,7 @@
        - Migrating existing documentation.
        - Documenting existing workflows for each Circle.
        - Drafting an initial template for onboarding documentation.
-     - Assign Leads for each Circle if possible, so each Circle has a point of contact for documentation.
+       - Assign Leads for each Circle if possible, so each Circle has a point of contact for documentation.
 
 7. **Q&A and Open Discussion (5-10 minutes)**
    - Open the floor for questions, suggestions, or additional concerns from team members.

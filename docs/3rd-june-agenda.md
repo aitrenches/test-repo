@@ -10,15 +10,15 @@
 
 2. **DF Book MkDocs & Documentation Updates (10 minutes)**  
    Progress updates on MkDocs editing and restructuring.  
-   3rd June - New DF-Books needs proof reading  
-   TOBIAS: Include the OpenProject for task logging on Review Circle’s MkDocs website.  
-   Include other wallet options aside from Eternl  
-   Review any feedback or contributions received since the last meeting.  
-   Continue planning for:  
-   - Who will update Circle content on MkDocs (us vs. individual Circles).  
-   - Minimum info requirements per Circle (pending spreadsheet draft from Vani).  
+   - 3rd June - New DF-Books needs proof reading  
+   - TOBIAS: Include the OpenProject for task logging on Review Circle’s MkDocs website.  
+   - Include other wallet options aside from Eternl  
+   - Review any feedback or contributions received since the last meeting.  
+   - Continue planning for:  
+     - Who will update Circle content on MkDocs (us vs. individual Circles).  
+     - Minimum info requirements per Circle (pending spreadsheet draft from Vani).  
 
-3.  
+3. **(Empty)**  
 
 4. **Task Management Platform Initiative (5 minutes)**  
    Sophia’s Announcement: Sophia would like to announce the task management initiative for all Circles using OpenProject.  
@@ -28,7 +28,7 @@
    Await feedback from Tobias on his assigned task.  
    Check status of pending action items:  
    - Contact with Ayo regarding Circle’s presence on the main website. - Anthony  
-   - Ask Rafael about the status of the Documentation Circle  
+   - Ask Rafael about status of the Documentation Circle  
    - Spreadsheet for Circle info updates (Vani).  
    - Circle email setup (Vani). (Waiting for Edwin)  
 
@@ -39,7 +39,7 @@
    - Tracking changes and version control.  
 
 7. **Action Items and Assignments (5 minutes)**  
-   Confirm or update assignments from the last meeting.  
+   Confirm or update assignments from last meeting.  
    Clarify deadlines and accountability.  
 
 8. **Open Discussion & Q&A (5 minutes)**  
