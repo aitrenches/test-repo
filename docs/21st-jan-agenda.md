@@ -17,7 +17,7 @@
 - Report on engagement efforts and progress in gathering onboarding/process information.
 
 ### Documentation Update Guidelines:
-- Quick status check on drafting Circle-led update guidelines, i.e., content to help circle members or the work group members to update documentation resources. To be done once we have all the data from the circles. Like a classification of the documentation resources.
+- Quick status check on drafting Circle-led update guidelines, i.e content to help circle members or the work group members to update documentation resources. To be done once we have all the data from the circles. Like a classification of the documentation resources.
 
 ## Next Steps and Assignments (5 minutes)
 - Identify any follow-up tasks or pending items for each area.
