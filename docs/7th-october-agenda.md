@@ -8,7 +8,7 @@
 Quick review of September 16th meeting outcomes.  
 Follow up on pending actions:  
 - Budget projection decisions.  
-- Progress on liaison Google Docs. How do we track their updates and everything new they have to add to their landing. The circles / resource will be enabled with training materials so they can update their resources themselves.  
+- Progress on liaison Google Docs. How do we track their updates and everything new they have to add to their landing. The circles/resource will be enabled with training materials so they can update their resources themselves.  
 - MkDocs automation requirements draft.  
 
 ## 2. Marketing & Events Collaboration: Educational Content Initiative (20 mins)  
@@ -52,10 +52,11 @@ Documentation Circle is invited to support content organization, indexing, and s
   - Love - IT & Data Analytics - ongoing  
   - Princess - Events & Marketing - ongoing  
   - Anthony - Dev Outreach & Biz Dev - ongoing  
+
 All to add docs to folder on shared drive [Google Drive](https://drive.google.com/drive/folders/15t2lHypIPEBZmJ6pM3yA1NPvvzO4C-zR?usp=drive_link)  
 
 **LAST UPDATED** dates are needed.  
-Should it be our role to identify what elements are likely to need updating, and agree a schedule with the Circle?  
+Should it be our role to identify what elements are likely to need updating, and agree on a schedule with the Circle?  
 
 ## 5. Budget Projection & Resource Planning (10 mins)  
 - Revisit 6-month budget projection (Sophia).  
