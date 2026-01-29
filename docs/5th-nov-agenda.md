@@ -1,3 +1,10 @@
+---
+title: "5th Nov Agenda"
+last_updated: "2026-01-29T08:01:58.303Z"
+source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.0"
+sync_timestamp: "Thu Jan 29 2026 09:01:58 GMT+0100 (West Africa Time)"
+---
+
 ###      Agenda for Inaugural DF Circles Documentation Group Meeting
 
 **Date**: Tuesday 5th November**Time**: 12:00 UTC**Objective**: Establish the goals, approach, and next steps for creating a unified, accessible, and comprehensive documentation resource for Deep Funding (DF) Circles.
