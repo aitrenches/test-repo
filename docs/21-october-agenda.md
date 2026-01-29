@@ -1,3 +1,10 @@
+---
+title: "21 October Agenda"
+last_updated: "2026-01-29T08:02:20.553Z"
+source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.kyyvqeq5pvm0"
+sync_timestamp: "Thu Jan 29 2026 09:02:20 GMT+0100 (West Africa Time)"
+---
+
  **Date:** Tuesday, October 21st, 2025 **Time:** 1PM UTC **Host:** Anthony
 
 ### 1. Welcome and Recap (5 mins)
