@@ -1,3 +1,10 @@
+---
+title: "Documentation Framework"
+last_updated: "2026-01-29T08:02:03.095Z"
+source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.zi64esvrhaex"
+sync_timestamp: "Thu Jan 29 2026 09:02:03 GMT+0100 (West Africa Time)"
+---
+
 ### Proposed Framework for Documentation
 
 This is a simple framework to guide both the **DeepFunding Circles documentation** and **Backend Systems documentation** processes.
