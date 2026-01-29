@@ -1,3 +1,10 @@
+---
+title: "25th Feb Agenda"
+last_updated: "2026-01-29T08:02:06.006Z"
+source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.dblv3sbayqeh"
+sync_timestamp: "Thu Jan 29 2026 09:02:06 GMT+0100 (West Africa Time)"
+---
+
 ### Agenda for DF Circles Documentation Work Group Meeting
 
 **Date:** February 25th, 2025**Time:** 1PM UTC
