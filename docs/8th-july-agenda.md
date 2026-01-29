@@ -1,3 +1,10 @@
+---
+title: "8th July Agenda"
+last_updated: "2026-01-29T08:02:14.928Z"
+source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.pzqsrefyz91s"
+sync_timestamp: "Thu Jan 29 2026 09:02:14 GMT+0100 (West Africa Time)"
+---
+
 Our Agenda for today will be a recap of last week's meeting and the action points.
 
 1. Ideate on our very own requirements documents to get the MkDocs Automation to work for us first.
