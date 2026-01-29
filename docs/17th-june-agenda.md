@@ -1,8 +1,8 @@
 ---
 title: "17th June Agenda"
-last_updated: "2026-01-29T08:02:12.988Z"
+last_updated: "2026-01-29T08:34:51.343Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.jo708lcalqxl"
-sync_timestamp: "Thu Jan 29 2026 09:02:12 GMT+0100 (West Africa Time)"
+sync_timestamp: "Thu Jan 29 2026 09:34:51 GMT+0100 (West Africa Time)"
 ---
 
 **Agenda ? DF Documentation Circle Meeting** **Date:** Tuesday, June 17, 2025 **Time:** 1:00 PM UTC
