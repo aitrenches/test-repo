@@ -1,3 +1,10 @@
+---
+title: "21st Nov Agenda"
+last_updated: "2026-01-29T08:01:59.305Z"
+source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.7vklseb8sif3"
+sync_timestamp: "Thu Jan 29 2026 09:01:59 GMT+0100 (West Africa Time)"
+---
+
 ### Agenda for DF Circles Documentation Meeting
 
 **Date**: Thursday, 21st November 2024**Time**: 3:00 PM UTC**Objective**: Review progress on initial tasks, discuss landing page styles for the documentation site, and continue refining the documentation process and structure.
