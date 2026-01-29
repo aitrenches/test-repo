@@ -1,8 +1,8 @@
 ---
 title: "19th August Agenda"
-last_updated: "2026-01-29T08:02:16.674Z"
+last_updated: "2026-01-29T08:34:54.951Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.dvmkdyhwkogl"
-sync_timestamp: "Thu Jan 29 2026 09:02:16 GMT+0100 (West Africa Time)"
+sync_timestamp: "Thu Jan 29 2026 09:34:54 GMT+0100 (West Africa Time)"
 ---
 
 ### TRACKER: 
