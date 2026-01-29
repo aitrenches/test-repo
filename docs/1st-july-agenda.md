@@ -1,8 +1,8 @@
 ---
 title: "1st July Agenda"
-last_updated: "2026-01-29T08:02:13.952Z"
+last_updated: "2026-01-29T08:34:52.250Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.7jnbpv6o3gg"
-sync_timestamp: "Thu Jan 29 2026 09:02:13 GMT+0100 (West Africa Time)"
+sync_timestamp: "Thu Jan 29 2026 09:34:52 GMT+0100 (West Africa Time)"
 ---
 
 ### Agenda ? DF Documentation Circle Meeting
