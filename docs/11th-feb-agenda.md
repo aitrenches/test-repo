@@ -1,8 +1,8 @@
 ---
 title: "11th Feb Agenda"
-last_updated: "2026-01-29T08:02:05.086Z"
+last_updated: "2026-01-29T08:34:43.367Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.ijgritsic8sy"
-sync_timestamp: "Thu Jan 29 2026 09:02:05 GMT+0100 (West Africa Time)"
+sync_timestamp: "Thu Jan 29 2026 09:34:43 GMT+0100 (West Africa Time)"
 ---
 
 ### Agenda for DF Circles Documentation Work Group Meeting
