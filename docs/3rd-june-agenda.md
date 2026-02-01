@@ -1,14 +1,9 @@
 ---
 title: "3rd June Agenda"
-last_updated: "2026-02-01T18:30:25.639Z"
+last_updated: "2026-02-01T18:36:10.581Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.sb9ok6rkyc9a"
-sync_timestamp: "Sun Feb 01 2026 19:30:25 GMT+0100 (West Africa Time)"
+sync_timestamp: "Sun Feb 01 2026 19:36:10 GMT+0100 (West Africa Time)"
 ---
-
-!!! note "Page Information"
-    - **Source Document**: [Google Doc Link](https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.sb9ok6rkyc9a)
-    - **Last Updated**: 2026-02-01T18:30:25.639Z
-    - **Sync Timestamp**: Sun Feb 01 2026 19:30:25 GMT+0100 (West Africa Time)
 
  **Agenda for DF Documentation Circle Meeting** **Date:** Tuesday, 13th May 2025 **Time:** 1:00 PM UTC **Location:** Zoom **Present:** Anthony
 
