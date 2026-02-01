@@ -1,14 +1,9 @@
 ---
 title: "18th March Agenda"
-last_updated: "2026-02-01T18:30:23.806Z"
+last_updated: "2026-02-01T18:36:08.668Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.rjg6jp5hfusz"
-sync_timestamp: "Sun Feb 01 2026 19:30:23 GMT+0100 (West Africa Time)"
+sync_timestamp: "Sun Feb 01 2026 19:36:08 GMT+0100 (West Africa Time)"
 ---
-
-!!! note "Page Information"
-    - **Source Document**: [Google Doc Link](https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.rjg6jp5hfusz)
-    - **Last Updated**: 2026-02-01T18:30:23.806Z
-    - **Sync Timestamp**: Sun Feb 01 2026 19:30:23 GMT+0100 (West Africa Time)
 
 ### Agenda for DF Circles Documentation Work Group Meeting
 
