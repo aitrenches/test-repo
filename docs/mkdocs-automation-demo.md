@@ -1,14 +1,14 @@
 ---
 title: "MkDocs Automation Demo"
-last_updated: "2026-02-01T18:30:32.153Z"
+last_updated: "2026-02-01T18:36:17.387Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.hplcvec81lca"
-sync_timestamp: "Sun Feb 01 2026 19:30:32 GMT+0100 (West Africa Time)"
+sync_timestamp: "Sun Feb 01 2026 19:36:17 GMT+0100 (West Africa Time)"
 ---
 
 !!! note "Page Information"
     - **Source Document**: [Google Doc Link](https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.hplcvec81lca)
-    - **Last Updated**: 2026-02-01T18:30:32.153Z
-    - **Sync Timestamp**: Sun Feb 01 2026 19:30:32 GMT+0100 (West Africa Time)
+    - **Last Updated**: 2026-02-01T18:36:17.387Z
+    - **Sync Timestamp**: Sun Feb 01 2026 19:36:17 GMT+0100 (West Africa Time)
 
 ? **Date:** Tuesday, October 28th, 2025 ? **Time:** 1 PM UTC ?? **Host:** Anthony Oliko ? **Focus:** *MkDocs Automation Demo & Next Steps*
 
