@@ -1,8 +1,8 @@
 ---
 title: "14th Jan Agenda"
-last_updated: "2026-02-01T18:36:02.865Z"
+last_updated: "2026-02-03T18:35:53.923Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.db9fa2i3fhzp"
-sync_timestamp: "Sun Feb 01 2026 19:36:02 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 03 2026 19:35:53 GMT+0100 (West Africa Time)"
 ---
 
 **Agenda for DF Circles Documentation MeetingDate:** Tuesday, 14th January 2025**Time:** 2:00 PM UTC**Objective:** Recap progress from the previous meetings, discuss Rafael?s comment on expanding responsibilities, and make decisions on key documentation tasks.
