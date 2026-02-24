@@ -1,8 +1,8 @@
 ---
 title: "18th Nov 2025 agenda"
-last_updated: "2026-02-24T10:35:58.551Z"
+last_updated: "2026-02-24T10:39:04.825Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.xzf95jwgqc3n"
-sync_timestamp: "Tue Feb 24 2026 11:35:58 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 11:39:04 GMT+0100 (West Africa Time)"
 ---
 
  **Date:** Tuesday 18th No, 2025 **Time:** 1PM UTC **Host:** Anthony**Present: All**
