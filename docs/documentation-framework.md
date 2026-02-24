@@ -1,8 +1,8 @@
 ---
 title: "Documentation Framework"
-last_updated: "2026-02-03T18:35:56.398Z"
+last_updated: "2026-02-24T06:27:27.111Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.zi64esvrhaex"
-sync_timestamp: "Tue Feb 03 2026 19:35:56 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 07:27:27 GMT+0100 (West Africa Time)"
 ---
 
 ### Proposed Framework for Documentation
