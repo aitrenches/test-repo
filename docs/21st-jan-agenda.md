@@ -1,8 +1,8 @@
 ---
 title: "21st Jan Agenda"
-last_updated: "2026-02-03T18:35:55.518Z"
+last_updated: "2026-02-24T06:27:18.948Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.gkzl0ffbg0l1"
-sync_timestamp: "Tue Feb 03 2026 19:35:55 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 07:27:18 GMT+0100 (West Africa Time)"
 ---
 
 Agenda for DF Circles Documentation Work Group Meeting
