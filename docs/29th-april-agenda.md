@@ -1,8 +1,8 @@
 ---
 title: "29th April Agenda"
-last_updated: "2026-02-24T06:27:32.746Z"
+last_updated: "2026-02-24T06:38:22.198Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.bqadzupo2pp5"
-sync_timestamp: "Tue Feb 24 2026 07:27:32 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 07:38:22 GMT+0100 (West Africa Time)"
 ---
 
 **Agenda for DF Documentation Circle Meeting**
