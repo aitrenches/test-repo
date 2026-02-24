@@ -1,8 +1,8 @@
 ---
 title: "13th May Agenda"
-last_updated: "2026-02-03T18:36:02.477Z"
+last_updated: "2026-02-24T06:27:33.487Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.dlkg6rx0gat5"
-sync_timestamp: "Tue Feb 03 2026 19:36:02 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 07:27:33 GMT+0100 (West Africa Time)"
 ---
 
  **Agenda for DF Documentation Circle Meeting** **Date:** Tuesday, 13th May 2025 **Time:** 1:00 PM UTC **Location:** Zoom **Present:** Anthony
