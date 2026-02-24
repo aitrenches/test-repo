@@ -1,8 +1,8 @@
 ---
 title: "2nd September Agenda"
-last_updated: "2026-02-24T06:38:29.975Z"
+last_updated: "2026-02-24T10:35:53.438Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.g5o5373dxxte"
-sync_timestamp: "Tue Feb 24 2026 07:38:29 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 11:35:53 GMT+0100 (West Africa Time)"
 ---
 
 ### TRACKER: 
