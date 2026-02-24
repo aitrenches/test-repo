@@ -1,8 +1,8 @@
 ---
 title: "21 October Agenda"
-last_updated: "2026-02-24T10:35:55.929Z"
+last_updated: "2026-02-24T10:39:02.675Z"
 source_doc: "https://docs.google.com/document/d/1l5-1xQtHEozG9N6FpkFO4A6oixgQ6ZUo8Jx0FXYtqro/edit#heading=h.t.kyyvqeq5pvm0"
-sync_timestamp: "Tue Feb 24 2026 11:35:55 GMT+0100 (West Africa Time)"
+sync_timestamp: "Tue Feb 24 2026 11:39:02 GMT+0100 (West Africa Time)"
 ---
 
  **Date:** Tuesday, October 21st, 2025 **Time:** 1PM UTC **Host:** Anthony
